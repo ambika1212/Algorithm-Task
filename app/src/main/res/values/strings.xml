@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Algorithm Task</string>
+    <string-array name="rules">
+        <item>Even</item>
+        <item>Odd</item>
+        <item>Prime</item>
+        <item>Fibonacci</item>
+    </string-array>
+
+</resources>
